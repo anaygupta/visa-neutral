@@ -37,7 +37,7 @@
       <p class="font-bold">179 g/km CO2</p>
       <div class="pt-2 space-y-1">
         <p class="text-white bg-v-blue p-2 rounded-lg">CO2 Savings: 20 g/km</p>
-        <p class="text-white bg-v-orange p-2 rounded-lg">Rewards: 20 points</p>
+        <p class="text-black bg-v-orange p-2 rounded-lg">Rewards: 20 points</p>
       </div>
     </div>
   </div>
