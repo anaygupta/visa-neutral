@@ -4,7 +4,7 @@ export default {
 
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        titleTemplate: 'nuxt-jamstack-starter-kit %s',
+        titleTemplate: 'Visa Neutral %s',
         htmlAttrs: {
             lang: "en"
         },

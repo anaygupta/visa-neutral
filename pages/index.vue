@@ -1,5 +1,5 @@
 <template>
-  <Tutorial />
+  <Cars />
 </template>
 
 <script>
