@@ -7,7 +7,7 @@
       </h1>
       <p class="text-gray-400 ml-3 p-0">Environmentally optimize your trips</p>
     </div>
-    <nav class="mt-3">
+    <nav class="mt-1">
       <ul
         class="
           flex flex-row
