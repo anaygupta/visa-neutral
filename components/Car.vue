@@ -91,7 +91,7 @@ export default {
 
     const currentCost = parseInt(this.currentCost.replace(',', ''))
     this.savings = currentCost - this.total_co22
-    this.rewards = 0.01 * this.savings
+    this.rewards = Math.round(0.01 * this.savings)
     if (this.rewards < 0) {
       this.rewards = 0
     }
