@@ -1,5 +1,8 @@
 # visa-neutral
-- deployed at [visaneutral.netlify.app](https://visaneutral.netlify.app)
+Environmentally optimize your road trips. 
+
+Deployed [here](https://visaneutral.netlify.app).
+
 ---
 
 ## Build Setup
